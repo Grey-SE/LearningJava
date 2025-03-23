@@ -1,0 +1,7 @@
+engineer
+electrical
+programming
+javascript
+resistance
+current
+voltage
